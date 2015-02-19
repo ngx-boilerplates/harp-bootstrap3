@@ -56,7 +56,8 @@ $ harp server
 
 And navigate to `http://localhost:9000` in your browser:
 
-![Homepage](http://i.imgur.com/dORKysf.png)
+![harp-bootstrap3](https://cloud.githubusercontent.com/assets/1859381/6262321/380a6bb2-b801-11e4-8d26-de863cc16a62.png)
+
 
 ## How it works
 
