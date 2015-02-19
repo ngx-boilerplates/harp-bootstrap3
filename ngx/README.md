@@ -17,24 +17,6 @@ Component based approach:
 
 ## Installation
 
-First make sure you have AngularJS Express installed:
-
-```sh
-$ sudo npm install -g ngx-cli
-```
-
-Then initialize the boilerplate:
-
-```sh
-$ ngx init -b harp-bootstrap 3 myproject
-```
-
-Change the directory to the new `myproject` directory:
-
-```sh
-$ cd myproject
-```
-
 Install the latest dependencies:
 
 ```sh
@@ -54,9 +36,7 @@ Start the harp server from your project directory:
 $ harp server
 ```
 
-And navigate to `http://localhost:9000` in your browser:
-
-![harp-bootstrap3](https://cloud.githubusercontent.com/assets/1859381/6262321/380a6bb2-b801-11e4-8d26-de863cc16a62.png)
+And navigate to `http://localhost:9000` in your browser.
 
 
 ## How it works

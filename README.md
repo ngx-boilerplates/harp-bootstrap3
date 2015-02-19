@@ -26,7 +26,7 @@ $ sudo npm install -g ngx-cli
 Then initialize the boilerplate:
 
 ```sh
-$ ngx init -b harp-bootstrap 3 myproject
+$ ngx init -b harp-bootstrap3 myproject
 ```
 
 Change the directory to the new `myproject` directory:
